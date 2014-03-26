@@ -1,0 +1,27 @@
+{
+  "name": "youdown-site",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krisrang/youdown-site.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/krisrang/youdown-site/issues"
+  },
+  "homepage": "https://github.com/krisrang/youdown-site",
+  "devDependencies": {
+    "express": "^3.5.1",
+    "grunt-contrib-compass": "^0.7.2",
+    "grunt-concurrent": "^0.5.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt": "^0.4.4",
+    "grunt-contrib-jade": "^0.11.0",
+    "grunt-nodemon": "^0.2.1",
+    "jade": "^1.3.0"
+  }
+}
