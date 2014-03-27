@@ -6,7 +6,7 @@ module.exports = function(grunt) {
           cssDir: 'css'
         },
         files: {
-          'css/app.css': 'css/app.scss'
+          'css/app.css': 'sass/app.scss'
         }
       }
     },
@@ -25,7 +25,7 @@ module.exports = function(grunt) {
     },
     watch: {
       sass: {
-        files: ['css/*.scss'],
+        files: ['sass/*.scss'],
         tasks: ['compass']
       },
       js: {
@@ -52,7 +52,7 @@ module.exports = function(grunt) {
         script: 'server.js',
         options: {
           args: [],
-          ignore: ['css/**', 'js/**'],
+          ignore: ['js/**'],
           ext: 'js',
           nodeArgs: ['--debug'],
           delayTime: 1,

@@ -1,0 +1,17 @@
+.btn {
+  background: $buttonRed;
+  color: #fff;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 5px;
+  border: 1px solid $buttonBorder;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+  @include box-shadow(#444 2px 2px 10px);
+  
+  &:hover {
+    text-decoration: none;
+    background: darken($buttonRed, 10%);
+  }
+}

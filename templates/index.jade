@@ -1,11 +1,60 @@
 doctype html
 html(lang="en")
   head
+    meta(charset="utf-8")
+    meta(name="viewport" content="width=device-width, initial-scale=1.0")
     title YouDown
-    link(rel="stylesheet" href="/css/app.css")
+    link(rel="stylesheet" href="/css/app.css" type="text/css")
+    link(rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:400,700" type="text/css")
   body
-    h1 Jade - node template engine
+    .main
+      h1.wow.fadeInDown
+        img(src="/images/icon.png")
+        | You
+        span.red Down        
+      h2.wow.fadeInDown Download and convert YouTube videos fast
+      
+      .mac-dl
+        a.btn.btn-download(data-file="v0.2/Mac.zip") Download Beta 0.2
+        .download-txt For Mac OSX 10.7 and above
+        
+        .screenshot.wow.fadeInUp
+          img(src="/images/screenshot-mac.png")
+            
+      .win-dl
+        a.btn.btn-download(data-file="v0.2/Win.zip") Download Beta 0.2
+        .download-txt For Windows 7 and above
+        
+        .screenshot.wow.fadeInUp
+          img(src="/images/screenshot-win.png")
+            
+      .lin-32-dl
+        a.btn.btn-download(href="https://github.com/krisrang/youdown") Get Source Code
+        .download-txt Prebuilt package coming soon
+        
+      .lin-64-dl
+        a.btn.btn-download(href="https://github.com/krisrang/youdown") Get Source Code
+        .download-txt Prebuilt package coming soon
+      
+    .features.wow.fadeInUp
+      h3 Features
+      
+      ul.featurelist
+        li.feature
+          img(src="/images/fast.png")
+          div Download any YouTube video at full speed
+        li.feature
+          img(src="/images/queue.png")
+          div Qeueue multiple videos for download
+        li.splitter
+        li.feature
+          img(src="/images/import.png")
+          div Import video lists from your YouTube favorites or text files
+        li.feature
+          img(src="/images/update.png")
+          div YouDown updates automatically to keep up to date with YouTube
     
+    script(src="/js/wow.js")
     script(src="/js/app.js")
   if livereload
     script(src="http://localhost:35729/livereload.js")

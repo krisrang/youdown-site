@@ -1,0 +1,124 @@
+@import "compass/utilities/general/clearfix";
+
+body {
+  background: #fff;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 34px;
+  line-height: 50px;
+  font-weight: bold;
+  margin-top: 20px;
+  
+  img {
+    vertical-align: middle;
+    margin-right: 10px;
+    margin-top: -5px;
+  }
+  
+  .red {
+    color: $red;
+  }
+}
+
+h2 {
+  margin-top: 30px;
+  color: $lightgray;
+  font-size: 28px;
+}
+
+h3 {
+  margin-top: 20px;
+  color: $lightgray;
+  font-size: 24px;
+}
+
+.btn-download {
+  margin-top: 50px;
+}
+
+.download-txt {
+  margin-top: 10px;
+  color: $lightgray;
+  font-size: 14px;
+}
+
+.screenshot {
+  margin-top: 40px;
+  
+  img {
+    max-width: 100%;
+  }
+}
+
+ul {
+  list-style: none;
+  margin: 20px 30px;
+  padding: 10px 0;
+  border-top: 2px solid #ccc;
+  
+  li {
+    &.feature {
+      width: 25%;
+      display: inline-block;
+      vertical-align: top;
+      text-align: left;
+      font-size: 14px;
+    }
+    
+    &.splitter {
+      display: none;
+    }
+    
+    img {
+      height: 32px;
+      float: left;
+      margin: 0 20px;
+    }
+    
+    div {
+      margin-left: 75px;
+    }
+  }
+}
+
+.mac-dl, .win-dl, .lin-32-dl, .lin-64-dl, .nope-dl { display: none; }
+body.mac .mac-dl { display: block; }
+body.win .win-dl { display: block; }
+body.lin-32 .lin-32-dl { display: block; }
+body.lin-64 .lin-64-dl { display: block; }
+body.nope .nope-dl { display: block; }
+
+@media screen and (max-width: 840px){
+  ul {
+    li {
+      &.feature {
+        width: 50%;
+      }
+      
+      &.splitter {
+        display: block;
+        height: 20px;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 480px){
+  ul {
+    li {
+      &.feature {
+        display: block;
+        margin-bottom: 30px;
+        width: 100%;
+        @include clearfix;
+      }
+      
+      &.splitter {
+        display: none;
+      }
+    }
+  }
+}
