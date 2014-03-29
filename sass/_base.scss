@@ -53,11 +53,16 @@ h3 {
   }
 }
 
+.features {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
 ul {
   list-style: none;
   margin: 20px 30px;
   padding: 10px 0;
-  border-top: 2px solid #ccc;
+  border-top: 2px solid #ccc;  
   
   li {
     &.feature {
@@ -91,7 +96,7 @@ body.lin-32 .lin-32-dl { display: block; }
 body.lin-64 .lin-64-dl { display: block; }
 body.nope .nope-dl { display: block; }
 
-@media screen and (max-width: 840px){
+@media screen and (max-width: 950px){
   ul {
     li {
       &.feature {
@@ -106,7 +111,7 @@ body.nope .nope-dl { display: block; }
   }
 }
 
-@media screen and (max-width: 480px){
+@media screen and (max-width: 600px){
   ul {
     li {
       &.feature {
