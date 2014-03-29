@@ -1,0 +1,48 @@
+{
+  "windows": {
+    "version": "0.3.0",
+    "updateUrl": "http://s3.rang.ee/releases/youdown/0.3.0.nw",
+    "checksum": "49c7327d314a6169bdb87f4dca3257ca927c0931",
+    "signature": "GWXMHXwNqOyhLNJYtdc4TnA9io9yFwuHnZclCOqfFI8DQcNsZezrRHf5zKhkzxxPvqdLXKzEYGd6ArBeDJIOTTFFmUCtvbKYQI/olyKzJ+vBKbNqlxQXDHU3iABl/F6ivLYCUlpr32nQDlmFrp77GYQByTU4LkT0cIXHwcH0/FcdBhrHPGR/Me1XBBFdnh//pf3cfNLcdFt4fcTSJ5M8eiOBYfdcxKm9QBmyrl+r8aeyFxLfVP/uKWEQthGYiitg1cedWuEjQHwc1rvvs+4YSUKVjy0cPz6o2PTX3wnkozOBppOVD0ZFk7lmYKyFRvPd0bXkxI/kj42/R5vFZk7lGuJwjcZ3FXzqiOPyPTr7pNliv6JAnHPnYv69Cg/VVs3IOnlmvktvqe+syHm1gF0rQU/Y0zrZRqfnlWU2Rq94M8lXcMYczknoloIxA7yUuz8PCuvXhIW3n4SbIHV6iXV+BKqjrWU/uOk063EYePH+eN9a6pM7XIbXPANDkLrhvopajnURjmJvolPbFDBTApLac0WWO7meNOYj+QC1H9kvRmXvxmz6YJHrhYnW7iDThOrnxnNbptEy3yWf4AT8iqKAoPbM8GxQJOVxzWq15j+obWxNOWjpSvZwLzXMBNRAH9kF8Qofk0w7vGnLi0ohxzdGxM/VUQp64SpDYmb4V4+QVKI=",
+    "title": "0.3.0 Update",
+    "description": "Adds autoupdates",
+    "changeLog": ["Adds autoupdating"],
+    "gitTag": "v0.3.0",
+    "gitCommit": "8727d9e8"
+  },
+  "linux": {
+    "x86": {
+      "version": "0.3.0",
+      "updateUrl": "http://s3.rang.ee/releases/youdown/0.3.0.nw",
+      "checksum": "49c7327d314a6169bdb87f4dca3257ca927c0931",
+      "signature": "GWXMHXwNqOyhLNJYtdc4TnA9io9yFwuHnZclCOqfFI8DQcNsZezrRHf5zKhkzxxPvqdLXKzEYGd6ArBeDJIOTTFFmUCtvbKYQI/olyKzJ+vBKbNqlxQXDHU3iABl/F6ivLYCUlpr32nQDlmFrp77GYQByTU4LkT0cIXHwcH0/FcdBhrHPGR/Me1XBBFdnh//pf3cfNLcdFt4fcTSJ5M8eiOBYfdcxKm9QBmyrl+r8aeyFxLfVP/uKWEQthGYiitg1cedWuEjQHwc1rvvs+4YSUKVjy0cPz6o2PTX3wnkozOBppOVD0ZFk7lmYKyFRvPd0bXkxI/kj42/R5vFZk7lGuJwjcZ3FXzqiOPyPTr7pNliv6JAnHPnYv69Cg/VVs3IOnlmvktvqe+syHm1gF0rQU/Y0zrZRqfnlWU2Rq94M8lXcMYczknoloIxA7yUuz8PCuvXhIW3n4SbIHV6iXV+BKqjrWU/uOk063EYePH+eN9a6pM7XIbXPANDkLrhvopajnURjmJvolPbFDBTApLac0WWO7meNOYj+QC1H9kvRmXvxmz6YJHrhYnW7iDThOrnxnNbptEy3yWf4AT8iqKAoPbM8GxQJOVxzWq15j+obWxNOWjpSvZwLzXMBNRAH9kF8Qofk0w7vGnLi0ohxzdGxM/VUQp64SpDYmb4V4+QVKI=",
+      "title": "0.3.0 Update",
+      "description": "Adds autoupdates",
+      "changeLog": ["Adds autoupdating"],
+      "gitTag": "v0.3.0",
+      "gitCommit": "8727d9e8"
+    },
+    "x64": {
+      "version": "0.3.0",
+      "updateUrl": "http://s3.rang.ee/releases/youdown/0.3.0.nw",
+      "checksum": "49c7327d314a6169bdb87f4dca3257ca927c0931",
+      "signature": "GWXMHXwNqOyhLNJYtdc4TnA9io9yFwuHnZclCOqfFI8DQcNsZezrRHf5zKhkzxxPvqdLXKzEYGd6ArBeDJIOTTFFmUCtvbKYQI/olyKzJ+vBKbNqlxQXDHU3iABl/F6ivLYCUlpr32nQDlmFrp77GYQByTU4LkT0cIXHwcH0/FcdBhrHPGR/Me1XBBFdnh//pf3cfNLcdFt4fcTSJ5M8eiOBYfdcxKm9QBmyrl+r8aeyFxLfVP/uKWEQthGYiitg1cedWuEjQHwc1rvvs+4YSUKVjy0cPz6o2PTX3wnkozOBppOVD0ZFk7lmYKyFRvPd0bXkxI/kj42/R5vFZk7lGuJwjcZ3FXzqiOPyPTr7pNliv6JAnHPnYv69Cg/VVs3IOnlmvktvqe+syHm1gF0rQU/Y0zrZRqfnlWU2Rq94M8lXcMYczknoloIxA7yUuz8PCuvXhIW3n4SbIHV6iXV+BKqjrWU/uOk063EYePH+eN9a6pM7XIbXPANDkLrhvopajnURjmJvolPbFDBTApLac0WWO7meNOYj+QC1H9kvRmXvxmz6YJHrhYnW7iDThOrnxnNbptEy3yWf4AT8iqKAoPbM8GxQJOVxzWq15j+obWxNOWjpSvZwLzXMBNRAH9kF8Qofk0w7vGnLi0ohxzdGxM/VUQp64SpDYmb4V4+QVKI=",
+      "title": "0.3.0 Update",
+      "description": "Adds autoupdates",
+      "changeLog": ["Adds autoupdating"],
+      "gitTag": "v0.3.0",
+      "gitCommit": "8727d9e8"
+    }
+  },
+  "mac": {
+    "version": "0.3.0",
+    "updateUrl": "http://s3.rang.ee/releases/youdown/0.3.0.nw",
+    "checksum": "49c7327d314a6169bdb87f4dca3257ca927c0931",
+    "signature": "GWXMHXwNqOyhLNJYtdc4TnA9io9yFwuHnZclCOqfFI8DQcNsZezrRHf5zKhkzxxPvqdLXKzEYGd6ArBeDJIOTTFFmUCtvbKYQI/olyKzJ+vBKbNqlxQXDHU3iABl/F6ivLYCUlpr32nQDlmFrp77GYQByTU4LkT0cIXHwcH0/FcdBhrHPGR/Me1XBBFdnh//pf3cfNLcdFt4fcTSJ5M8eiOBYfdcxKm9QBmyrl+r8aeyFxLfVP/uKWEQthGYiitg1cedWuEjQHwc1rvvs+4YSUKVjy0cPz6o2PTX3wnkozOBppOVD0ZFk7lmYKyFRvPd0bXkxI/kj42/R5vFZk7lGuJwjcZ3FXzqiOPyPTr7pNliv6JAnHPnYv69Cg/VVs3IOnlmvktvqe+syHm1gF0rQU/Y0zrZRqfnlWU2Rq94M8lXcMYczknoloIxA7yUuz8PCuvXhIW3n4SbIHV6iXV+BKqjrWU/uOk063EYePH+eN9a6pM7XIbXPANDkLrhvopajnURjmJvolPbFDBTApLac0WWO7meNOYj+QC1H9kvRmXvxmz6YJHrhYnW7iDThOrnxnNbptEy3yWf4AT8iqKAoPbM8GxQJOVxzWq15j+obWxNOWjpSvZwLzXMBNRAH9kF8Qofk0w7vGnLi0ohxzdGxM/VUQp64SpDYmb4V4+QVKI=",
+    "title": "0.3.0 Update",
+    "description": "Adds autoupdates",
+    "changeLog": ["Adds autoupdating"],
+    "gitTag": "v0.3.0",
+    "gitCommit": "8727d9e8"
+  }
+}
