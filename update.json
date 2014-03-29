@@ -2,8 +2,8 @@
   "windows": {
     "version": "0.3.0",
     "updateUrl": "http://s3.rang.ee/releases/youdown/0.3.0.nw",
-    "checksum": "20242a7295351f3968c9d8fb2783b2621c663427",
-    "signature": "GmCd1GMf0YV/cBt/a5j2/MBLV1zTRlIKpCjhDwljAw5hGLCQt+fISRqsyTuSOk4jgstIG8hnB3frXicHFukbxYcrb/tBESPXdzxCh2rP2kF7KHNUnVc6xrct8KNZYsF3kBOjvw4wF8VjhsZ0dC5JuLxFZPAf6p6bzqXIGJngIhgfn3Lbph7Mv9AbCJSPcNogc04QzdQxL8k/7eTy5EXt0SRqoxaV383Xc9K/KHriB3HWD0K/1dnAO+uLROxl3AgGZCqmvVJE1GAvugj3nZLn/V2biVh18djs5Mg03zN/m+zAFCqGD1xjKDuXziKVBfyqjaviVhClFJCIPBxEqoH4soBKCk8hQZZczkhivKTUhBaFlHRQU7meEpFvnUBIgWq+KKW9+X0Z3DFWVBJrcdTBeyWGAHiU6/Oib2QnOdTnCg+QNnlp/nqFvoezhHfLnKiavMmGEVqi/hj744BOydRyCmcc8yl90m7Do01zjeXn+ra0NyyD2w9/BI1Xo8lOWolzOLKHJyOY2vGB0dlJOjwL4W/6tkRFiGSIDx3WgO2ZXKzczcsiA801qwksRH4r2Pzc+cDPk55BcerzS7pcH4b5EyX4B4HTsloYbAdBwZ2Sxm5tqDtXO1gBK6zW55ok8BfPjzY5duWDAS2gnBh5wQGyusPBBPplxQcMsQVZazb3i9A=",
+    "checksum": "395602e485ef383af77982c3730033875607e373",
+    "signature": "NW4OJXqNstU+pJvdOYF7Yrddlj4xdVYFTXDe+ByF0eWL+F/OYhutFj8nrVtgQ7a2GrOcaOH6/30/IvHnSK3kbIXaUyqFicEjsiwKXdrR1l+LpoKS/XPsn2WtkmJJfaeTXOxEx+XD9P0hz/CT68vGhm7UFU+IW9t6JODeowm2rFTJ8vLBT3OM9hAuttC/EhzD0gOgFz679+tnLdgVvpGt5mF8fVNayHfm8Y5nwXvrwYkexOSumQmYuaunYpNIsEJJuY4hYuxGySW2L2bktqPmdcYnEwk0y4cbYp2QMLl5hBgUOyDXExYOioSVBrizjBbDGrxVJpIesqBvIs4+jbp3QAAKp+wCADoYOdQn1XW02L8M7xj+qY2voo5AyEGuGv93e0v7DkISQI3sgloAKxUuliudIcNubdndqao3RbiHVEeoQifxDY/aCaOok5PCDm9+00pelmJj+AW6IgTdEpanNfeyAu/FN6dtmtegUThyTT/aQ6tlaVDi43mfhA2USZwHQsXsm4W+8+/qo2P0SDj4V7dSwCBqu6V/4Ye2Bf9RJhPEf3AvSM+ONuE0rCyvZZO3fHXpooB2Dx2mpu0tqvMQBujSkK7pyEGHGUCW39UEOgc1cmYv+RSXM6OMnTL/x5HX8b9fsTBHdllLi+Bwxc8/Gb5HGCLOKt8QK/DjTxLS3O8=",
     "title": "0.3.0 Update",
     "description": "Autoupdating added",
     "changeLog": ["Adds automatic update checking and download"],
@@ -14,8 +14,8 @@
     "x86": {
       "version": "0.3.0",
       "updateUrl": "http://s3.rang.ee/releases/youdown/0.3.0.nw",
-      "checksum": "20242a7295351f3968c9d8fb2783b2621c663427",
-      "signature": "GmCd1GMf0YV/cBt/a5j2/MBLV1zTRlIKpCjhDwljAw5hGLCQt+fISRqsyTuSOk4jgstIG8hnB3frXicHFukbxYcrb/tBESPXdzxCh2rP2kF7KHNUnVc6xrct8KNZYsF3kBOjvw4wF8VjhsZ0dC5JuLxFZPAf6p6bzqXIGJngIhgfn3Lbph7Mv9AbCJSPcNogc04QzdQxL8k/7eTy5EXt0SRqoxaV383Xc9K/KHriB3HWD0K/1dnAO+uLROxl3AgGZCqmvVJE1GAvugj3nZLn/V2biVh18djs5Mg03zN/m+zAFCqGD1xjKDuXziKVBfyqjaviVhClFJCIPBxEqoH4soBKCk8hQZZczkhivKTUhBaFlHRQU7meEpFvnUBIgWq+KKW9+X0Z3DFWVBJrcdTBeyWGAHiU6/Oib2QnOdTnCg+QNnlp/nqFvoezhHfLnKiavMmGEVqi/hj744BOydRyCmcc8yl90m7Do01zjeXn+ra0NyyD2w9/BI1Xo8lOWolzOLKHJyOY2vGB0dlJOjwL4W/6tkRFiGSIDx3WgO2ZXKzczcsiA801qwksRH4r2Pzc+cDPk55BcerzS7pcH4b5EyX4B4HTsloYbAdBwZ2Sxm5tqDtXO1gBK6zW55ok8BfPjzY5duWDAS2gnBh5wQGyusPBBPplxQcMsQVZazb3i9A=",
+      "checksum": "395602e485ef383af77982c3730033875607e373",
+      "signature": "NW4OJXqNstU+pJvdOYF7Yrddlj4xdVYFTXDe+ByF0eWL+F/OYhutFj8nrVtgQ7a2GrOcaOH6/30/IvHnSK3kbIXaUyqFicEjsiwKXdrR1l+LpoKS/XPsn2WtkmJJfaeTXOxEx+XD9P0hz/CT68vGhm7UFU+IW9t6JODeowm2rFTJ8vLBT3OM9hAuttC/EhzD0gOgFz679+tnLdgVvpGt5mF8fVNayHfm8Y5nwXvrwYkexOSumQmYuaunYpNIsEJJuY4hYuxGySW2L2bktqPmdcYnEwk0y4cbYp2QMLl5hBgUOyDXExYOioSVBrizjBbDGrxVJpIesqBvIs4+jbp3QAAKp+wCADoYOdQn1XW02L8M7xj+qY2voo5AyEGuGv93e0v7DkISQI3sgloAKxUuliudIcNubdndqao3RbiHVEeoQifxDY/aCaOok5PCDm9+00pelmJj+AW6IgTdEpanNfeyAu/FN6dtmtegUThyTT/aQ6tlaVDi43mfhA2USZwHQsXsm4W+8+/qo2P0SDj4V7dSwCBqu6V/4Ye2Bf9RJhPEf3AvSM+ONuE0rCyvZZO3fHXpooB2Dx2mpu0tqvMQBujSkK7pyEGHGUCW39UEOgc1cmYv+RSXM6OMnTL/x5HX8b9fsTBHdllLi+Bwxc8/Gb5HGCLOKt8QK/DjTxLS3O8=",
       "title": "0.3.0 Update",
       "description": "Autoupdating added",
       "changeLog": ["Adds automatic update checking and download"],
@@ -25,8 +25,8 @@
     "x64": {
       "version": "0.3.0",
       "updateUrl": "http://s3.rang.ee/releases/youdown/0.3.0.nw",
-      "checksum": "20242a7295351f3968c9d8fb2783b2621c663427",
-      "signature": "GmCd1GMf0YV/cBt/a5j2/MBLV1zTRlIKpCjhDwljAw5hGLCQt+fISRqsyTuSOk4jgstIG8hnB3frXicHFukbxYcrb/tBESPXdzxCh2rP2kF7KHNUnVc6xrct8KNZYsF3kBOjvw4wF8VjhsZ0dC5JuLxFZPAf6p6bzqXIGJngIhgfn3Lbph7Mv9AbCJSPcNogc04QzdQxL8k/7eTy5EXt0SRqoxaV383Xc9K/KHriB3HWD0K/1dnAO+uLROxl3AgGZCqmvVJE1GAvugj3nZLn/V2biVh18djs5Mg03zN/m+zAFCqGD1xjKDuXziKVBfyqjaviVhClFJCIPBxEqoH4soBKCk8hQZZczkhivKTUhBaFlHRQU7meEpFvnUBIgWq+KKW9+X0Z3DFWVBJrcdTBeyWGAHiU6/Oib2QnOdTnCg+QNnlp/nqFvoezhHfLnKiavMmGEVqi/hj744BOydRyCmcc8yl90m7Do01zjeXn+ra0NyyD2w9/BI1Xo8lOWolzOLKHJyOY2vGB0dlJOjwL4W/6tkRFiGSIDx3WgO2ZXKzczcsiA801qwksRH4r2Pzc+cDPk55BcerzS7pcH4b5EyX4B4HTsloYbAdBwZ2Sxm5tqDtXO1gBK6zW55ok8BfPjzY5duWDAS2gnBh5wQGyusPBBPplxQcMsQVZazb3i9A=",
+      "checksum": "395602e485ef383af77982c3730033875607e373",
+      "signature": "NW4OJXqNstU+pJvdOYF7Yrddlj4xdVYFTXDe+ByF0eWL+F/OYhutFj8nrVtgQ7a2GrOcaOH6/30/IvHnSK3kbIXaUyqFicEjsiwKXdrR1l+LpoKS/XPsn2WtkmJJfaeTXOxEx+XD9P0hz/CT68vGhm7UFU+IW9t6JODeowm2rFTJ8vLBT3OM9hAuttC/EhzD0gOgFz679+tnLdgVvpGt5mF8fVNayHfm8Y5nwXvrwYkexOSumQmYuaunYpNIsEJJuY4hYuxGySW2L2bktqPmdcYnEwk0y4cbYp2QMLl5hBgUOyDXExYOioSVBrizjBbDGrxVJpIesqBvIs4+jbp3QAAKp+wCADoYOdQn1XW02L8M7xj+qY2voo5AyEGuGv93e0v7DkISQI3sgloAKxUuliudIcNubdndqao3RbiHVEeoQifxDY/aCaOok5PCDm9+00pelmJj+AW6IgTdEpanNfeyAu/FN6dtmtegUThyTT/aQ6tlaVDi43mfhA2USZwHQsXsm4W+8+/qo2P0SDj4V7dSwCBqu6V/4Ye2Bf9RJhPEf3AvSM+ONuE0rCyvZZO3fHXpooB2Dx2mpu0tqvMQBujSkK7pyEGHGUCW39UEOgc1cmYv+RSXM6OMnTL/x5HX8b9fsTBHdllLi+Bwxc8/Gb5HGCLOKt8QK/DjTxLS3O8=",
       "title": "0.3.0 Update",
       "description": "Autoupdating added",
       "changeLog": ["Adds automatic update checking and download"],
@@ -37,8 +37,8 @@
   "mac": {
     "version": "0.3.0",
     "updateUrl": "http://s3.rang.ee/releases/youdown/0.3.0.nw",
-    "checksum": "20242a7295351f3968c9d8fb2783b2621c663427",
-    "signature": "GmCd1GMf0YV/cBt/a5j2/MBLV1zTRlIKpCjhDwljAw5hGLCQt+fISRqsyTuSOk4jgstIG8hnB3frXicHFukbxYcrb/tBESPXdzxCh2rP2kF7KHNUnVc6xrct8KNZYsF3kBOjvw4wF8VjhsZ0dC5JuLxFZPAf6p6bzqXIGJngIhgfn3Lbph7Mv9AbCJSPcNogc04QzdQxL8k/7eTy5EXt0SRqoxaV383Xc9K/KHriB3HWD0K/1dnAO+uLROxl3AgGZCqmvVJE1GAvugj3nZLn/V2biVh18djs5Mg03zN/m+zAFCqGD1xjKDuXziKVBfyqjaviVhClFJCIPBxEqoH4soBKCk8hQZZczkhivKTUhBaFlHRQU7meEpFvnUBIgWq+KKW9+X0Z3DFWVBJrcdTBeyWGAHiU6/Oib2QnOdTnCg+QNnlp/nqFvoezhHfLnKiavMmGEVqi/hj744BOydRyCmcc8yl90m7Do01zjeXn+ra0NyyD2w9/BI1Xo8lOWolzOLKHJyOY2vGB0dlJOjwL4W/6tkRFiGSIDx3WgO2ZXKzczcsiA801qwksRH4r2Pzc+cDPk55BcerzS7pcH4b5EyX4B4HTsloYbAdBwZ2Sxm5tqDtXO1gBK6zW55ok8BfPjzY5duWDAS2gnBh5wQGyusPBBPplxQcMsQVZazb3i9A=",
+    "checksum": "395602e485ef383af77982c3730033875607e373",
+    "signature": "NW4OJXqNstU+pJvdOYF7Yrddlj4xdVYFTXDe+ByF0eWL+F/OYhutFj8nrVtgQ7a2GrOcaOH6/30/IvHnSK3kbIXaUyqFicEjsiwKXdrR1l+LpoKS/XPsn2WtkmJJfaeTXOxEx+XD9P0hz/CT68vGhm7UFU+IW9t6JODeowm2rFTJ8vLBT3OM9hAuttC/EhzD0gOgFz679+tnLdgVvpGt5mF8fVNayHfm8Y5nwXvrwYkexOSumQmYuaunYpNIsEJJuY4hYuxGySW2L2bktqPmdcYnEwk0y4cbYp2QMLl5hBgUOyDXExYOioSVBrizjBbDGrxVJpIesqBvIs4+jbp3QAAKp+wCADoYOdQn1XW02L8M7xj+qY2voo5AyEGuGv93e0v7DkISQI3sgloAKxUuliudIcNubdndqao3RbiHVEeoQifxDY/aCaOok5PCDm9+00pelmJj+AW6IgTdEpanNfeyAu/FN6dtmtegUThyTT/aQ6tlaVDi43mfhA2USZwHQsXsm4W+8+/qo2P0SDj4V7dSwCBqu6V/4Ye2Bf9RJhPEf3AvSM+ONuE0rCyvZZO3fHXpooB2Dx2mpu0tqvMQBujSkK7pyEGHGUCW39UEOgc1cmYv+RSXM6OMnTL/x5HX8b9fsTBHdllLi+Bwxc8/Gb5HGCLOKt8QK/DjTxLS3O8=",
     "title": "0.3.0 Update",
     "description": "Autoupdating added",
     "changeLog": ["Adds automatic update checking and download"],
